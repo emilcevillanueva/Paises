@@ -1,0 +1,27 @@
+<?<?xml version="1.0" encoding="UTF-8"?>
+<usuarios>
+	<usuario>
+		<usuarioid>1</usuarioid>
+		<nombre>Jose</nombre>
+		<twitter>joseTw</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>2</usuarioid>
+		<nombre>Jorge</nombre>
+		<twitter>jorgeTw</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>3</usuarioid>
+		<nombre>Juan</nombre>
+		<twitter>juanTw</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>4</usuarioid>
+		<nombre>Alberto</nombre>
+		<twitter>albertoTw</twitter>
+	</usuario>
+	<usuario>
+		<usuarioid>5</usuarioid>
+		<nombre>Andres</nombre>
+		<twitter>andresTw</twitter>
+	</usuario>
