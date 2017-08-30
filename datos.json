@@ -1,0 +1,27 @@
+[
+  {
+    "usuarioid": "1",
+    "nombre": "Jose",
+    "twitter": "joseTw"
+  },
+  {
+    "usuarioid": "2",
+    "nombre": "Jorge",
+    "twitter": "jorgeTw"
+  },
+  {
+    "usuarioid": "3",
+    "nombre": "Juan",
+    "twitter": "juanTw"
+  },
+  {
+    "usuarioid": "4",
+    "nombre": "Alberto",
+    "twitter": "albertoTw"
+  },
+  {
+    "usuarioid": "5",
+    "nombre": "Andres",
+    "twitter": "andresTw"
+  }
+]
