@@ -1,0 +1,65 @@
+
+{ "paises" : [
+	{"nombre" : "Argentina",
+	"tipo":"Nacional",
+	"provincias": [
+		{"name": "Buenos Aires",
+		"id": "1",
+		"ciudad":[
+			{"nombre": "Capital Federal",
+			"hoteles" : [
+				{"name": "ÍCARO SUITES-CAPITAL FEDERAL",
+				"id" : "1"}
+				{"name": "ISI BAIRES APART & SUITES – CAPITAL FEDERAL",
+				"id": "2"}
+				{"name": "APART SURES BELGRANO SUITES",
+				"id": "3"}]
+			}]
+		}
+		{"name": "Cordoba",
+		"id": "2",
+		"ciudad":[
+			{"nombre": "Capital",
+			"hoteles" : [
+				{"name": "VILLA GRAL BELGRANO - HOTEL EDELWEISS",
+				"id" : "1"}
+				{"name": "CÓRDOBA- VILLA GIARDINO - HOTEL LUZ Y FUERZA",
+				"id": "2"}
+				{"name": "CÓRDOBA- HOTEL NH CÓRDOBA URBANO",
+				"id": "3"}]
+			}]
+		}
+		{"name": "Costa Atlántica",
+		"id": "3",
+		"ciudad":[
+			{"nombre":"Villa Gessel",
+			"hoteles" : [
+				{"name": "VILLA GESSEL - HOSTERIA CANTABRICO",
+				"id" : "1"}
+				{"name": "AGUAS VERDES",
+				"id": "2"}
+				{"name": "LUCILA DEL MAR",
+				"id": "3"}]
+			}]
+		}
+	]
+	}
+	{"nombre":"Chile",
+	"tipo":"Internacional",
+	"provincias" :[
+		{"nombre" : "Santiago de Chile",
+		"id" : "1",
+		"ciudad":[
+			{"nombre": "Curicó",
+			"hoteles" : [
+				{"name": "ÍCARO SUITES-Curicó",
+				"id" : "1"}
+				{"name": "ISI BAIRES APART & SUITES – Curicó",
+				"id": "2"}
+				{"name": "APART SURES BELGRANO SUITES",
+				"id": "3"}]
+			}]
+		}
+	]
+	}
+]}
