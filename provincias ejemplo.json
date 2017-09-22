@@ -1,62 +1,92 @@
 
 { "paises" : [
 	{"nombre" : "Argentina",
-	"tipo":"Nacional",
+	"id": "1",
+	"nacional":"1",
 	"provincias": [
-		{"name": "Buenos Aires",
+		{"nombre": "Buenos Aires",
 		"id": "1",
 		"ciudad":[
 			{"nombre": "Capital Federal",
+			 "id":"1",
 			"hoteles" : [
-				{"name": "ÍCARO SUITES-CAPITAL FEDERAL",
+				{"titulo": "ÍCARO SUITES-CAPITAL FEDERAL",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id" : "1"}
-				{"name": "ISI BAIRES APART & SUITES – CAPITAL FEDERAL",
+				{"nombre": "ISI BAIRES APART & SUITES – CAPITAL FEDERAL",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id": "2"}
-				{"name": "APART SURES BELGRANO SUITES",
+				{"nombre": "APART SURES BELGRANO SUITES",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id": "3"}]
 			}]
 		}
-		{"name": "Cordoba",
+		{"nombre": "Cordoba",
 		"id": "2",
 		"ciudad":[
 			{"nombre": "Capital",
+			"id":"1",
 			"hoteles" : [
-				{"name": "VILLA GRAL BELGRANO - HOTEL EDELWEISS",
+				{"nombre": "VILLA GRAL BELGRANO - HOTEL EDELWEISS",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id" : "1"}
-				{"name": "CÓRDOBA- VILLA GIARDINO - HOTEL LUZ Y FUERZA",
+				{"nombre": "CÓRDOBA- VILLA GIARDINO - HOTEL LUZ Y FUERZA",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id": "2"}
-				{"name": "CÓRDOBA- HOTEL NH CÓRDOBA URBANO",
+				{"nombre": "CÓRDOBA- HOTEL NH CÓRDOBA URBANO",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id": "3"}]
 			}]
 		}
-		{"name": "Costa Atlántica",
+		{"nombre": "Costa Atlántica",
 		"id": "3",
 		"ciudad":[
 			{"nombre":"Villa Gessel",
+			"id":"1"
 			"hoteles" : [
-				{"name": "VILLA GESSEL - HOSTERIA CANTABRICO",
+				{"nombre": "VILLA GESSEL - HOSTERIA CANTABRICO",
+			 	"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id" : "1"}
-				{"name": "AGUAS VERDES",
+				{"nombre": "AGUAS VERDES",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id": "2"}
-				{"name": "LUCILA DEL MAR",
+				{"nombre": "LUCILA DEL MAR",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id": "3"}]
 			}]
 		}
 	]
 	}
 	{"nombre":"Chile",
-	"tipo":"Internacional",
+	 "id": "2",
+	"nacional":"0",
 	"provincias" :[
 		{"nombre" : "Santiago de Chile",
 		"id" : "1",
 		"ciudad":[
 			{"nombre": "Curicó",
+			"id":"1"
 			"hoteles" : [
-				{"name": "ÍCARO SUITES-Curicó",
+				{"nombre": "ÍCARO SUITES-Curicó",
+			 	"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id" : "1"}
-				{"name": "ISI BAIRES APART & SUITES – Curicó",
+				{"nombre": "ISI BAIRES APART & SUITES – Curicó",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id": "2"}
-				{"name": "APART SURES BELGRANO SUITES",
+				{"nombre": "APART SURES BELGRANO SUITES",
+				"informacion":"Promocion bla bla",
+				"urlImagen":"http://imagen.com",
 				"id": "3"}]
 			}]
 		}
