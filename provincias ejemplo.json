@@ -11,7 +11,7 @@
           {  
             "nombre":"Capital Federal",
             "id":"1",
-            "hoteles":[  
+            "promocion":[  
               {  
                 "titulo":"ÍCARO SUITES-CAPITAL FEDERAL",
                 "informacion":"Promocion bla bla",
@@ -41,7 +41,7 @@
           {  
             "nombre":"Capital",
             "id":"1",
-            "hoteles":[  
+            "promocion":[  
               {  
                 "nombre":"VILLA GRAL BELGRANO - HOTEL EDELWEISS",
                 "informacion":"Promocion bla bla",
@@ -71,7 +71,7 @@
           {  
             "nombre":"Villa Gessel",
             "id":"1",
-            "hoteles":[  
+            "promocion":[  
               {  
                 "nombre":"VILLA GESSEL - HOSTERIA CANTABRICO",
                 "informacion":"Promocion bla bla",
@@ -108,7 +108,7 @@
           {  
             "nombre":"Curicó",
             "id":"1",
-            "hoteles":[  
+            "promocion":[  
               {  
                 "nombre":"ÍCARO SUITES-Curicó",
                 "informacion":"Promocion bla bla",
