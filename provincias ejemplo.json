@@ -1,92 +1,138 @@
-{ "paises" : [
-	{"nombre" : "Argentina",
-	"id": "1",
-	"nacional":"1",
-	"provincias": [
-		{"nombre": "Buenos Aires",
-		"id": "1",
-		"ciudad":[
-			{"nombre": "Capital Federal",
-			 "id":"1",
-			"hoteles" : [
-				{"titulo": "ÍCARO SUITES-CAPITAL FEDERAL",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id" : "1"},
-				{"nombre": "ISI BAIRES APART & SUITES – CAPITAL FEDERAL",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id": "2"},
-				{"nombre": "APART SURES BELGRANO SUITES",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id": "3"}]
-			}]
-		},
-		{"nombre": "Cordoba",
-		"id": "2",
-		"ciudad":[
-			{"nombre": "Capital",
-			"id":"1",
-			"hoteles" : [
-				{"nombre": "VILLA GRAL BELGRANO - HOTEL EDELWEISS",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id" : "1"},
-				{"nombre": "CÓRDOBA- VILLA GIARDINO - HOTEL LUZ Y FUERZA",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id": "2"},
-				{"nombre": "CÓRDOBA- HOTEL NH CÓRDOBA URBANO",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id": "3"}]
-			}]
-		},
-		{"nombre": "Costa Atlántica",
-		"id": "3",
-		"ciudad":[
-			{"nombre":"Villa Gessel",
-			"id":"1",
-			"hoteles" : [
-				{"nombre": "VILLA GESSEL - HOSTERIA CANTABRICO",
-			 	"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id" : "1"},
-				{"nombre": "AGUAS VERDES",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id": "2"},
-				{"nombre": "LUCILA DEL MAR",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id": "3"}]
-			}]
-		}
-	]},
-	{"nombre":"Chile",
-	 "id": "2",
-	"nacional":"0",
-	"provincias" :[
-		{"nombre" : "Santiago de Chile",
-		"id" : "1",
-		"ciudad":[
-			{"nombre": "Curicó",
-			"id":"1",
-			"hoteles" : [
-				{"nombre": "ÍCARO SUITES-Curicó",
-			 	"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id" : "1"},
-				{"nombre": "ISI BAIRES APART & SUITES – Curicó",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id": "2"},
-				{"nombre": "APART SURES BELGRANO SUITES",
-				"informacion":"Promocion bla bla",
-				"urlImagen":"http://imagen.com",
-				"id": "3"}]
-			}]
-		}
-	]}
-]}
+{  
+  "paises":[  
+    {  
+      "nombre":"Argentina",
+      "id":"1",
+      "nacional":"1",
+      "provincias":[  
+        {  
+          "nombre":"Buenos Aires",
+          "id":"1",
+          "ciudad":[  
+            {  
+              "nombre":"Capital Federal",
+              "id":"1",
+              "hoteles":[  
+                {  
+                  "titulo":"ÍCARO SUITES-CAPITAL FEDERAL",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"1"
+                },
+                {  
+                  "nombre":"ISI BAIRES APART & SUITES – CAPITAL FEDERAL",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"2"
+                },
+                {  
+                  "nombre":"APART SURES BELGRANO SUITES",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"3"
+                }
+              ]
+            }
+          ]
+        },
+        {  
+          "nombre":"Cordoba",
+          "id":"2",
+          "ciudad":[  
+            {  
+              "nombre":"Capital",
+              "id":"1",
+              "hoteles":[  
+                {  
+                  "nombre":"VILLA GRAL BELGRANO - HOTEL EDELWEISS",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"1"
+                },
+                {  
+                  "nombre":"CÓRDOBA- VILLA GIARDINO - HOTEL LUZ Y FUERZA",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"2"
+                },
+                {  
+                  "nombre":"CÓRDOBA- HOTEL NH CÓRDOBA URBANO",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"3"
+                }
+              ]
+            }
+          ]
+        },
+        {  
+          "nombre":"Costa Atlántica",
+          "id":"3",
+          "ciudad":[  
+            {  
+              "nombre":"Villa Gessel",
+              "id":"1",
+              "hoteles":[  
+                {  
+                  "nombre":"VILLA GESSEL - HOSTERIA CANTABRICO",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"1"
+                },
+                {  
+                  "nombre":"AGUAS VERDES",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"2"
+                },
+                {  
+                  "nombre":"LUCILA DEL MAR",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {  
+      "nombre":"Chile",
+      "id":"2",
+      "nacional":"0",
+      "provincias":[  
+        {  
+          "nombre":"Santiago de Chile",
+          "id":"1",
+          "ciudad":[  
+            {  
+              "nombre":"Curicó",
+              "id":"1",
+              "hoteles":[  
+                {  
+                  "nombre":"ÍCARO SUITES-Curicó",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"1"
+                },
+                {  
+                  "nombre":"ISI BAIRES APART & SUITES – Curicó",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"2"
+                },
+                {  
+                  "nombre":"APART SURES BELGRANO SUITES",
+                  "informacion":"Promocion bla bla",
+                  "urlImagen":"http://imagen.com",
+                  "id":"3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
