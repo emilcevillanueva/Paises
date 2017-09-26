@@ -2,7 +2,7 @@
   {  
     "nombre":"Argentina",
     "id":"1",
-    "nacional":"1",
+    "nacional":"true",
     "provincias":[  
       {  
         "nombre":"Buenos Aires",
@@ -99,7 +99,7 @@
   {  
     "nombre":"Chile",
     "id":"2",
-    "nacional":"0",
+    "nacional":"false",
     "provincias":[  
       {  
         "nombre":"Santiago de Chile",
