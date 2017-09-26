@@ -48,7 +48,7 @@
 		"id": "3",
 		"ciudad":[
 			{"nombre":"Villa Gessel",
-			"id":"1"
+			"id":"1",
 			"hoteles" : [
 				{"nombre": "VILLA GESSEL - HOSTERIA CANTABRICO",
 			 	"informacion":"Promocion bla bla",
@@ -74,7 +74,7 @@
 		"id" : "1",
 		"ciudad":[
 			{"nombre": "Curicó",
-			"id":"1"
+			"id":"1",
 			"hoteles" : [
 				{"nombre": "ÍCARO SUITES-Curicó",
 			 	"informacion":"Promocion bla bla",
