@@ -1,4 +1,3 @@
-
 { "paises" : [
 	{"nombre" : "Argentina",
 	"id": "1",
@@ -13,17 +12,17 @@
 				{"titulo": "ÍCARO SUITES-CAPITAL FEDERAL",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
-				"id" : "1"}
+				"id" : "1"},
 				{"nombre": "ISI BAIRES APART & SUITES – CAPITAL FEDERAL",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
-				"id": "2"}
+				"id": "2"},
 				{"nombre": "APART SURES BELGRANO SUITES",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
 				"id": "3"}]
 			}]
-		}
+		},
 		{"nombre": "Cordoba",
 		"id": "2",
 		"ciudad":[
@@ -33,17 +32,17 @@
 				{"nombre": "VILLA GRAL BELGRANO - HOTEL EDELWEISS",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
-				"id" : "1"}
+				"id" : "1"},
 				{"nombre": "CÓRDOBA- VILLA GIARDINO - HOTEL LUZ Y FUERZA",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
-				"id": "2"}
+				"id": "2"},
 				{"nombre": "CÓRDOBA- HOTEL NH CÓRDOBA URBANO",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
 				"id": "3"}]
 			}]
-		}
+		},
 		{"nombre": "Costa Atlántica",
 		"id": "3",
 		"ciudad":[
@@ -53,19 +52,18 @@
 				{"nombre": "VILLA GESSEL - HOSTERIA CANTABRICO",
 			 	"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
-				"id" : "1"}
+				"id" : "1"},
 				{"nombre": "AGUAS VERDES",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
-				"id": "2"}
+				"id": "2"},
 				{"nombre": "LUCILA DEL MAR",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
 				"id": "3"}]
 			}]
 		}
-	]
-	}
+	]}
 	{"nombre":"Chile",
 	 "id": "2",
 	"nacional":"0",
@@ -79,11 +77,11 @@
 				{"nombre": "ÍCARO SUITES-Curicó",
 			 	"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
-				"id" : "1"}
+				"id" : "1"},
 				{"nombre": "ISI BAIRES APART & SUITES – Curicó",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
-				"id": "2"}
+				"id": "2"},
 				{"nombre": "APART SURES BELGRANO SUITES",
 				"informacion":"Promocion bla bla",
 				"urlImagen":"http://imagen.com",
