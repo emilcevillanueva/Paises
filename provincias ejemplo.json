@@ -19,13 +19,13 @@
                 "id":"1"
               },
               {  
-                "nombre":"ISI BAIRES APART & SUITES – CAPITAL FEDERAL",
+                "titulo":"ISI BAIRES APART & SUITES – CAPITAL FEDERAL",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"2"
               },
               {  
-                "nombre":"APART SURES BELGRANO SUITES",
+                "titulo":"APART SURES BELGRANO SUITES",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"3"
@@ -43,19 +43,19 @@
             "id":"1",
             "promocion":[  
               {  
-                "nombre":"VILLA GRAL BELGRANO - HOTEL EDELWEISS",
+                "titulo":"VILLA GRAL BELGRANO - HOTEL EDELWEISS",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"1"
               },
               {  
-                "nombre":"CÓRDOBA- VILLA GIARDINO - HOTEL LUZ Y FUERZA",
+                "titulo":"CÓRDOBA- VILLA GIARDINO - HOTEL LUZ Y FUERZA",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"2"
               },
               {  
-                "nombre":"CÓRDOBA- HOTEL NH CÓRDOBA URBANO",
+                "titulo":"CÓRDOBA- HOTEL NH CÓRDOBA URBANO",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"3"
@@ -73,19 +73,19 @@
             "id":"1",
             "promocion":[  
               {  
-                "nombre":"VILLA GESSEL - HOSTERIA CANTABRICO",
+                "titulo":"VILLA GESSEL - HOSTERIA CANTABRICO",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"1"
               },
               {  
-                "nombre":"AGUAS VERDES",
+                "titulo":"AGUAS VERDES",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"2"
               },
               {  
-                "nombre":"LUCILA DEL MAR",
+                "titulo":"LUCILA DEL MAR",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"3"
@@ -110,19 +110,19 @@
             "id":"1",
             "promocion":[  
               {  
-                "nombre":"ÍCARO SUITES-Curicó",
+                "titulo":"ÍCARO SUITES-Curicó",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"1"
               },
               {  
-                "nombre":"ISI BAIRES APART & SUITES – Curicó",
+                "titulo":"ISI BAIRES APART & SUITES – Curicó",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"2"
               },
               {  
-                "nombre":"APART SURES BELGRANO SUITES",
+                "titulo":"APART SURES BELGRANO SUITES",
                 "informacion":"Promocion bla bla",
                 "urlImagen":"http://imagen.com",
                 "id":"3"
